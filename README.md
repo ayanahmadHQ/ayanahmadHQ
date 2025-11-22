@@ -1,43 +1,26 @@
-Ayan Ahmad
-BCA First-Year Student | Aspiring AI/ML Engineer | Age 18
+# Hey there! 👋
 
-I’m currently learning Python, building fundamentals, and exploring the basics of Artificial Intelligence & Machine Learning.
-This profile is where I document my journey, projects, experiments, and skills as I grow in tech.
+I’m **Ayan Ahmad**, an 18-year-old BCA first-year student from India.
 
-🚀 What I’m Learning
+I’m learning coding, building my foundation in **Python**, and exploring the world of **AI & Machine Learning**.  
+If something interests me, I dive into it, experiment, break it, fix it — and learn from it.
 
-Python (Core + Projects)
+My current tech stack is simple but growing. I mainly work with **Python**, and I’m slowly expanding into  
+**JavaScript**, Git/GitHub, and ML basics.  
+I use tools like **VS Code, GitHub, ChatGPT, Gemini, and Jupyter Notebook** to build and learn faster.
 
-Basics of AI & ML
+I’ve started working on beginner projects, and I use this GitHub to document my journey, experiments, and progress.
 
-Git & GitHub
+If you want to reach out or collaborate, you can email me at:  
+📩 **ayanahmad.connect@gmail.com**
 
-Problem-solving and clean coding
+---
 
-Computer fundamentals (OS, DBMS, Networking basics)
+## **Fun Facts**
 
-🛠️ Tools & Technologies I Use
-
-Languages: Python, JavaScript (beginner), HTML/CSS
-
-AI Tools: ChatGPT, Google Gemini, Claude
-
-Development Tools: VS Code, Git, GitHub
-
-Libraries (Learning): NumPy, Pandas, Matplotlib
-
-Other Skills: Prompting, Documentation, Basic Linux
-
-📫 Reach Me
-
-Email: ayanahmad.connect@gmail.com
-
-📌 Current Goals
-
-Build 3–5 beginner projects in Python
-
-Learn core ML concepts (supervised, unsupervised, model training basics)
-
-Improve problem-solving through daily coding
-
-Build a clean GitHub portfolio
+- 🎮 I love video games  
+- 🐉 Anime is one of my favorite things to watch  
+- 🧠 I enjoy learning new tech tools  
+- 🐍 Python is my comfort language  
+- 🔧 I like building small automation and scripts  
+- 🎧 Music helps me focus while coding
