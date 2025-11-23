@@ -24,3 +24,9 @@ If you want to reach out or collaborate, you can email me at:
 - 🐍 Python is my comfort language  
 - 🔧 I like building small automation and scripts  
 - 🎧 Music helps me focus while coding
+
+
+
+## Watch snake eating my github contributions
+
+![snake gif](https://github.com/ayanahmadHQ/ayanahmadHQ/blob/output/github-contribution-grid-snake.svg)
