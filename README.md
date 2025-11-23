@@ -27,7 +27,4 @@ If you want to reach out or collaborate, you can email me at:
 
 
 
-## Watch snake eating my github contributions
-
-![snake gif](https://raw.githubusercontent.com/ayanahmadHQ/ayanahmadHQ/output/github-contribution-grid-snake.svg)
 
